@@ -5,7 +5,7 @@
 ### Web Developer / Python Backend Developer
 
 I am Matias, Argentino and Cordobes.
-Initially I could define myself as a fullstack web developer, although over time I have leaned towards backend development and it is the path that I am interested in following, beyond staying permanently training in new tools.
+Initially I could define myself as a Fullstack web developer, although over time I have leaned towards Backend development and it is the path that I am interested in following, beyond staying permanently training in new tools.
 
 ### Skills ⭐ :
 
