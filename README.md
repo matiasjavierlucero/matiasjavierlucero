@@ -1,16 +1,38 @@
-### Hi there 👋
+# "Hola Mundo 👋"
 
-<!--
-**matiasjavierlucero/matiasjavierlucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Matias Javier Lucero
 
-Here are some ideas to get you started:
+### Web Developer / Python Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Matias, Argentino and Cordobes.
+Initially I could define myself as a fullstack web developer, although over time I have leaned towards backend development and it is the path that I am interested in following, beyond staying permanently training in new tools.
+
+### Skills ⭐ :
+
+ - Flask
+ - FastAPI
+ - SqlAlchemy
+ - Marshmallow
+ - JQuery
+ - Javascript
+ - MySQL
+ - PostgreSQL
+ - Flask-App-Builder
+ - Bootstrap 4
+ - HTML5
+ - CSS3
+ - Docker
+ - PHP
+ - React
+
+
+### My Collaborations
+
+ - www.mellitus.com.ar
+ - www.sindicarne.com.ar
+ - Escucha Activa (API)
+ - TEBAS (in progress)
+
+### Linkedin 
+
+#### https://www.linkedin.com/in/matiasjavierlucero/
