@@ -8,7 +8,8 @@ I am Matias, Argentino and Cordobes.
 Initially I could define myself as a Fullstack web developer, although over time I have leaned towards Backend development and it is the path that I am interested in following, beyond staying permanently training in new tools.
 
 ### Skills ⭐ :
-
+ - Django
+ - Django Rest
  - Flask
  - FastAPI
  - SqlAlchemy
@@ -22,8 +23,7 @@ Initially I could define myself as a Fullstack web developer, although over time
  - HTML5
  - CSS3
  - Docker
- - PHP
- - React
+ 
 
 
 ### My Collaborations
